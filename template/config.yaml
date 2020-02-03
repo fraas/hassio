@@ -70,7 +70,7 @@ esphome-stable:
   version: '1.14.3'  # STABLE
   slug: esphome
   description: "Fraas ESPHome Hass.io add-on for intelligently managing all your ESP8266/ESP32 devices."
-  image: fraas/esphome-hassio-{arch}
+  image: esphome/esphome-hassio-{arch}
   options: {}
 
 copy_files:
